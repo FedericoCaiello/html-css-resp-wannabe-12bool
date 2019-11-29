@@ -1,9 +1,22 @@
-h1 {
+ h1 {
   text-align: center;
 }
-img {
-  width: 50%;
+
+.debug p {
+  font-size: 20px;
 }
-.left .right {
-  margin: auto;
+
+img {
+  height: 200px;
+  width: 50%;
+  padding: 20px;
+}
+
+.background img {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 20px;
+}
+.background {
+  margin-top: 50px;
 }
