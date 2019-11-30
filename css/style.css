@@ -7,9 +7,11 @@
 }
 
 img {
-  height: 200px;
   width: 50%;
   padding: 20px;
+}
+.img-top {
+  height: 200px;
 }
 
 .background img {
@@ -19,4 +21,7 @@ img {
 }
 .background {
   margin-top: 50px;
+}
+.text-align {
+  text-align: center;
 }
